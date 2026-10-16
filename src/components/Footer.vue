@@ -1,7 +1,7 @@
 <script setup>
 // Cambia estos datos por los tuyos
-const alumno = 'Tu nombre completo'
-const grupo = 'Tu grupo o matrícula'
+const alumno = 'Fernandez Culebro Sebastian Ali, Gabriel Alejandro Cruz Guillen, Ricardo Francisco Pinto Velasco'
+const grupo = 'S5A'
 const anio = new Date().getFullYear()
 </script>
 
